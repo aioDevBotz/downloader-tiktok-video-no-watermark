@@ -2,19 +2,6 @@
 
 **The ultimate TikTok downloader online — download TikTok videos without watermark in HD quality from any device.**
 
----
-
-## ⚠️ Important Notice & Disclaimer
-
-This software is intended for educational and personal use only. By using TokUp, you agree to:
-
-- **Personal Archiving:** Download and save only your own content or publicly available content.
-- **Respect Copyright:** You are responsible for ensuring you have the right to download and use the content.
-- **No Affiliation:** Not affiliated with TikTok, ByteDance, or subsidiaries.
-- **User Responsibility:** The developers assume no liability for misuse.
-
----
-
 ## 🌟 TokUp Features
 
 - **No Watermark Downloads:** Save clean TikTok videos without watermark or logos
@@ -133,6 +120,16 @@ npm run dev
 
 ---
 
+## ⚠️ Important Notice & Disclaimer
+
+This software is intended for educational and personal use only. By using TokUp, you agree to:
+
+- **Personal Archiving:** Download and save only your own content or publicly available content.
+- **Respect Copyright:** You are responsible for ensuring you have the right to download and use the content.
+- **No Affiliation:** Not affiliated with TikTok, ByteDance, or subsidiaries.
+- **User Responsibility:** The developers assume no liability for misuse.
+
+---
 ## 🙏 Contributing
 
 We welcome contributions!
