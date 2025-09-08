@@ -61,7 +61,7 @@ https://m.tiktok.com/v/1234567890.html
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="assets/Screenshots/homepage.png" alt="TokUp - TikTok downloader main interface" width="800">
+  <img src="assets/Screenshots/settings.png" alt="TokUp - TikTok downloader main interface" width="800">
 </p>
 
 ---
