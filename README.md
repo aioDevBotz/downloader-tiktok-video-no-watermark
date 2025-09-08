@@ -2,6 +2,12 @@
 
 **The ultimate TikTok downloader online — download TikTok videos without watermark in HD quality from any device.**
 
+<div align="center">
+  <a href="../../releases/latest">
+    <img width="800" alt="TokLabs TikTok Video Downloader No Watermark Banner" src="assets/banner.png" />
+  </a>
+</div>
+
 ## 🌟 TokUp Features
 
 - **No Watermark Downloads:** Save clean TikTok videos without watermark or logos
